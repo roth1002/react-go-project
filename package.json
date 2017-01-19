@@ -43,7 +43,7 @@
     "webpack": "^1.12.13",
     "webpack-dev-middleware": "^1.5.1",
     "webpack-hot-middleware": "^2.7.1",
-    "whatwg-fetch": "^2.0.1",
+    "whatwg-fetch": "^2.0.2",
     "when": "^3.7.7"
   },
   "babel": {
