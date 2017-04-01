@@ -42,7 +42,7 @@
     "stylus-loader": "2.4.0",
     "webpack": "^1.12.13",
     "webpack-dev-middleware": "^1.5.1",
-    "webpack-hot-middleware": "^2.7.1",
+    "webpack-hot-middleware": "^2.18.0",
     "whatwg-fetch": "^2.0.1",
     "when": "^3.7.7"
   },
