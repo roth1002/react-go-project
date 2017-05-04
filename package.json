@@ -40,7 +40,7 @@
     "redux-logger": "^2.6.1",
     "style-loader": "^0.13.0",
     "stylus-loader": "2.4.0",
-    "webpack": "^1.12.13",
+    "webpack": "^2.5.0",
     "webpack-dev-middleware": "^1.5.1",
     "webpack-hot-middleware": "^2.7.1",
     "whatwg-fetch": "^2.0.1",
